@@ -4,7 +4,7 @@ Learn more about CEFI here: https://www.fisheries.noaa.gov/topic/climate-change/
 
 CEFI Portal - [https://psl.noaa.gov/cefi_portal](https://psl.noaa.gov/cefi_portal)
 
-CEFI Information Hub - [https://github.com/NOAA-PSL/CEFI-info-hub-list](https://noaa-cefi-portal.github.io/CEFI-info-hub-list)
+CEFI Information Hub - [https://noaa-cefi-portal.github.io/CEFI-info-hub-list](https://noaa-cefi-portal.github.io/CEFI-info-hub-list)
 
 CEFI Data Cookbook - [https://noaa-cefi-portal.github.io/cefi-cookbook](https://noaa-cefi-portal.github.io/cefi-cookbook)
 
