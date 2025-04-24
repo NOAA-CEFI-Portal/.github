@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Learn more about CEFI here: https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries
+Learn more about CEFI here:
 
 CEFI Portal - [https://psl.noaa.gov/cefi_portal](https://psl.noaa.gov/cefi_portal)
 
